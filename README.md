@@ -9,3 +9,6 @@ Features
 - Undo
 - PNG 저장 (Ctrl+S)
 - 레이어 ON/OFF
+
+영상 링크
+https://youtu.be/YFgmci-sZbM
